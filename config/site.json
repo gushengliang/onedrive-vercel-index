@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
+  "title": "Tony's OneDrive",
   "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -13,15 +13,15 @@
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
+  "email": "mailto:hmsjy2019@gmail.com",
   "links": [
     {
       "name": "GitHub",
-      "link": "https://github.com/spencerwooo/onedrive-vercel-index"
+      "link": "https://github.com/hmsjy2017"
     },
     {
       "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
+      "link": "https://t.me/hmsjy2017"
     }
   ]
 }
